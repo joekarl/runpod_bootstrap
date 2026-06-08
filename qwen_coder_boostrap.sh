@@ -2,7 +2,7 @@
 # run.sh
 
 # Start script 
-# curl -sL https://raw.githubusercontent.com/joekarl/runpod_bootstrap/qwen_coder_boostrap.sh -o /workspace/qwen_coder_boostrap.sh && bash /workspace/qwen_coder_boostrap.sh
+# curl -sL https://raw.githubusercontent.com/joekarl/runpod_bootstrap/main/qwen_coder_boostrap.sh -o /qwen_coder_boostrap.sh && chmod +x /qwen_coder_boostrap.sh && bash /qwen_coder_boostrap.sh
 # Container disk size: 18gb
 # Volume disk size : 55gb
 # Volume mount path : /workspace
